@@ -1,6 +1,6 @@
 [![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://yashvantraghav9784.io)
 <h1 align="center">Hi 👋, I'm Yash Vant Singh Raghav</h1>
-<h3 align="center">A passionate Game Developer from India</h3>
+<h3 align="center">A passionate Front-end Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvant97&label=Profile%20views&color=0e75b6&style=flat" alt="yashvant97" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **HTML and CSS projects.**
 
-- 🌱 I’m currently learning **Unity and Unreal Engine**
+- 🌱 I’m currently learning **JAVASCRIPT and PYTHON**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashvant97](https://github.com/yashvant97)
 
